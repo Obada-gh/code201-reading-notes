@@ -8,9 +8,9 @@ concepts | link
  HTML Chapter 1: “Structure” | [Structure](https://obada-gh.github.io/reading-notes/Structure)
  HTML Chapter 8: “Extra Markup”| [ExtraMarkup](https://obada-gh.github.io/reading-notes/ExtraMarkup)
 HTML Chapter 17: “HTML5 Layout” | [Layout](https://obada-gh.github.io/reading-notes/Layout)
- HTML Chapter 18: “Process & Design” | [Process & Design](https://obada-gh.github.io/reading-notes/rocess&Design)
+ HTML Chapter 18: “Process & Design” | [Process & Design](https://obada-gh.github.io/reading-notes/process&Design)
  JS Chapter 1: “The ABC of Programming” | [The ABC of Programming](https://obada-gh.github.io/reading-notes/TheABCofProgramming)
- Cheats sheet | [Cheats sheet](https://obada-gh.github.io/reading-notes/Cheats)
+ Cheats sheet | [Cheats sheet](https://obada-gh.github.io/reading-notes/cheats)
 
 link for the github file : [gitfile](https://github.com/Obada-gh/reading-notes/blob/main/class-01.md)
 
