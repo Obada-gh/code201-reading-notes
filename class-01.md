@@ -201,7 +201,7 @@ for more info : [markdown cheats](https://www.markdownguide.org/cheat-sheet/)
 
 
 
-this map for making a site :
+this map for our info :
 
 
 ![map](https://www11.0zz0.com/2021/02/28/00/374479467.png)
