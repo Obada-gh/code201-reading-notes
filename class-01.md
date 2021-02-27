@@ -5,14 +5,14 @@ end there is a quiz for you &#128175;
 
 concepts | link
 ------------ | -------------
- HTML Chapter 1: “Structure” | [w3schools](https://www.w3schools.com/)
- HTML Chapter 8: “Extra Markup”| [w3schools](https://www.w3schools.com/)
-HTML Chapter 17: “HTML5 Layout” | [w3schools](https://www.w3schools.com/)
- HTML Chapter 18: “Process & Design” | [w3schools](https://www.w3schools.com/)
- JS Chapter 1: “The ABC of Programming” | [w3schools](https://www.w3schools.com/)
- Cheats sheet | [w3schools](https://www.w3schools.com/)
+ HTML Chapter 1: “Structure” | [Structure](https://obada-gh.github.io/reading-notes/Structure)
+ HTML Chapter 8: “Extra Markup”| [ExtraMarkup](https://obada-gh.github.io/reading-notes/ExtraMarkup)
+HTML Chapter 17: “HTML5 Layout” | [Layout](obada-gh.github.io/reading-notes/Layout)
+ HTML Chapter 18: “Process & Design” | [Process & Design](obada-gh.github.io/reading-notes/Process&Design)
+ JS Chapter 1: “The ABC of Programming” | [The ABC of Programming](obada-gh.github.io/reading-notes/TheABCofProgramming)
+ Cheats sheet | [Cheats sheet](obada-gh.github.io/reading-notes/Cheats)
 
-link for the github file : [w3schools](https://www.w3schools.com/)
+link for the github file : [gitfile](https://github.com/Obada-gh/reading-notes/blob/main/class-01.md)
 
 ## HTML Chapter 1: “Structure” :
 
