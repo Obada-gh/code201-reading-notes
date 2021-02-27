@@ -20,6 +20,8 @@ Daily Reading Assignments | Time
  ai [w3schools](https://www.w3schools.com/) | 15min
  R [w3schools](https://www.w3schools.com/) | 15min
  
+
+ [w3schools](https://www.w3schools.com/).
 >Remember : 
  * FOUCS
  * no pain no gain
