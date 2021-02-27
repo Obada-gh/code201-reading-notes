@@ -19,7 +19,7 @@ Daily Reading Assignments | Time
  xml [w3schools](https://www.w3schools.com/) | 15min
  ai [w3schools](https://www.w3schools.com/) | 15min
  R [w3schools](https://www.w3schools.com/) | 15min
- ------------------- | ---------------------------
+ 
 >Remember : 
  * FOUCS
  * no pain no gain
