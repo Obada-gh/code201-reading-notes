@@ -12,6 +12,8 @@ using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
 
+This Tutorial Will help you a lot [w3schools](https://www.w3schools.com/).
+
 ##### *writen by OBADA ALHAWJREH.*
 
 My name is obada jaber, I’m 27 years old, I studied Mechanical engineering and i graduated from al balqa applied university, i am now a software student. [OBADA ALHAWJREH](https://github.com/Obada-gh). 
