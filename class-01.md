@@ -14,7 +14,7 @@ HTML Chapter 17: “HTML5 Layout” | [Layout](https://obada-gh.github.io/readin
 
 link for the github file : [gitfile](https://github.com/Obada-gh/reading-notes/blob/main/class-01.md)
 
-##How the Web Works (visualization)
+## How the Web Works (visualization)
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 ![visualization](https://www5.0zz0.com/2021/02/27/19/968715239.png)
