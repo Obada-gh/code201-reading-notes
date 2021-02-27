@@ -19,6 +19,8 @@ this will explain the idea:
 
 ![structure](https://www9.0zz0.com/2021/02/27/18/436061789.png)
 
+This Tutorial Will help you a lot [w3schools](https://www.w3schools.com/).
+
 ##### *writen by OBADA ALHAWJREH.*
 
 My name is obada jaber, I’m 27 years old, I studied Mechanical engineering and i graduated from al balqa applied university, i am now a software student. [OBADA ALHAWJREH](https://github.com/Obada-gh). 
