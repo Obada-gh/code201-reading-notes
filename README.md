@@ -4,21 +4,21 @@ GitHub, Inc. is a provider of Internet hosting for software development and vers
 
 Daily Reading Assignments | Time
 ------------ | -------------
- html on [w3schools](https://www.w3schools.com/) | 15min
- css [w3schools](https://www.w3schools.com/) | 15min
- javascript [w3schools](https://www.w3schools.com/) | 15min
- sql [w3schools](https://www.w3schools.com/) | 15min
- python [w3schools](https://www.w3schools.com/) | 15min
- php [w3schools](https://www.w3schools.com/) | 15min
- bootstrap [w3schools](https://www.w3schools.com/) | 15min
- jquary [w3schools](https://www.w3schools.com/) | 15min
- java on [w3schools](https://www.w3schools.com/) | 15min
- C++ [w3schools](https://www.w3schools.com/)e | 15min
- C# [w3schools](https://www.w3schools.com/) | 15min
- web [w3schools](https://www.w3schools.com/) | 15min
- xml [w3schools](https://www.w3schools.com/) | 15min
- ai [w3schools](https://www.w3schools.com/) | 15min
- R [w3schools](https://www.w3schools.com/) | 15min
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
+  | 
  
 
  [w3schools](https://www.w3schools.com/).
