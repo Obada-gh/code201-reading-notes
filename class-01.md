@@ -204,7 +204,7 @@ for more info : [markdown cheats](https://www.markdownguide.org/cheat-sheet/)
 this map for making a site :
 
 
-![map](https://www6.0zz0.com/2021/02/27/23/695514925.png)
+![map](https://www11.0zz0.com/2021/02/28/00/374479467.png)
 
 ## this a quiz for you :
 
