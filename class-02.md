@@ -236,7 +236,7 @@ HTML Chapter 17: “HTML5 Layout” | [Layout](https://obada-gh.github.io/readin
  JS Chapter 1: “The ABC of Programming” | [The ABC of Programming](https://obada-gh.github.io/reading-notes/TheABCofProgramming)
  Cheats sheet | [Cheats sheet](https://obada-gh.github.io/reading-notes/cheats)
 
-link for the github file : [gitfile](https://github.com/Obada-gh/reading-notes/blob/main/class-01.md)
+link for the github file : [gitfile](https://github.com/Obada-gh/reading-notes/blob/main/class-02.md)
 
 
 
