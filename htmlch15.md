@@ -39,7 +39,7 @@ pixels (to demonstrate its relevance without scrolling).
 
 
 example:
-![tables](https://www2.0zz0.com/2021/03/08/16/143424276.png).
+![tables](https://www9.0zz0.com/2021/03/08/16/700197167.png).
 
 
 
