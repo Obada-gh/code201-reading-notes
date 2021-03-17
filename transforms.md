@@ -92,8 +92,8 @@ to see all witn examples use this link :
 ### Pure CSS Bounce Animation:
 
 
-![ex](https://www14.0zz0.com/2021/03/17/07/796790974.png)
-[ex](https://www14.0zz0.com/2021/03/17/07/206844210.png);
+![ex](https://www4.0zz0.com/2021/03/17/07/501861134.png)
+[ex](https://codepen.io/dp_lewis/pen/gCfBv);
 
 
 
